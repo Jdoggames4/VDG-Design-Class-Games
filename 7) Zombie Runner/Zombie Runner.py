@@ -1,4 +1,4 @@
-# Jacob Dinkel
+# Jdoggames4
 # Zombie Runner
 
 import random
