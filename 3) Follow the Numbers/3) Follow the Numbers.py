@@ -1,4 +1,4 @@
-# Jacob Dinkel
+# Jdoggames4
 
 from random import randint
 
