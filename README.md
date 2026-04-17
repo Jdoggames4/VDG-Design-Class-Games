@@ -11,3 +11,6 @@ This list goes from
 7) Zombie Runner
 
 And more coming out soon
+
+For the __pacache__ you have to get it for 6 and 7 (I know.. it's a meme but shush) so your code can
+actually work as mine does
