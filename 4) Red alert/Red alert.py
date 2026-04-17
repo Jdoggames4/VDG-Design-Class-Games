@@ -1,6 +1,5 @@
-# Jacob Dinkel
+# Jdoggames4
 
-# Video 1
 import random
 
 
@@ -32,8 +31,6 @@ def draw():
         for star in stars:
             star.draw()
 
-
-# Video 2 and Video 3
 def update():
     global stars
     if len(stars) == 0:
@@ -68,7 +65,6 @@ def layout_stars(stars_to_layout):
         new_x_pos = (index + 1) * gap_size
         star.x = new_x_pos
 
-# Video 4
 def animate_stars(stars_to_animate):
     for star in stars_to_animate:
         duration = START_SPEED - current_level
