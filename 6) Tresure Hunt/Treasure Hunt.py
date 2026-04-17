@@ -1,4 +1,4 @@
-# Jacob Dinkel
+# Jdoggames4
 # Treasure Hunt
 
 from random import randint
