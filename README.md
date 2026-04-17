@@ -9,6 +9,7 @@ This list goes from
 5) Ballon Flight
 6) Treasure Hunt
 7) Zombie Runner
+8) Flappy Bird
 
 And more coming out soon
 
