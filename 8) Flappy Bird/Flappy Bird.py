@@ -1,4 +1,4 @@
-# Jacob Dinkel
+# Jdoggames4
 # Flappy Bird
 
 import pgzrun
