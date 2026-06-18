@@ -6,7 +6,7 @@ from random import randint
 WIDTH = 800
 HEIGHT = 500
 score = 0
-game_over = True
+game_over = False
 
 
 apple = Actor("apple")
